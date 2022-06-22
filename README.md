@@ -15,6 +15,7 @@
   Click start at the beginning of the quiz to initiate the questions. a timer will start with 75 seconds. each wrong answer will remove an additioanl 15 seconds from the clock. If the clock runs to 0 or if you complete all the questions then the program will end and you will then enter your initials and check your score compared to others on the same device. 
   
 
+![Coding Quiz!](https://user-images.githubusercontent.com/98857382/175051668-d71701b3-50d5-4f52-bf75-5d8fa2e34d61.gif)
 
   
   
